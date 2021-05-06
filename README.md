@@ -1,48 +1,56 @@
 # 職務経歴書
 
-# 基本情報
+## 個人データ
+- 氏名: 圓田 直樹 (Naoki Enda)
+- Twitter: https://twitter.com/enda531
+- note: https://note.com/enda531
 
-|key|value|
-|---|-----|
-|Name|圓田 直樹 (Naoki Enda))|
-|Twitter|https://twitter.com/enda531|
-|note|https://note.com/enda531|
-
-
-# スキル
-
-## 言語
-
-- プログラミング言語
-  - Ruby
-  - JavaScript
-    - TypeScript
-  - Python
-  - Go
-  - Swift
-  - Objective-C
+## 職務経歴(概要)
+### ソフトウェア開発
+- Webアプリケーションの開発
+  - Ruby、Go
+- iOSアプリの開発
+  - Swift、Objective-C
+- Androidアプリの開発
   - Kotlin
-  - C/C++
+- その他のソフトウェア開発経験
+  - Windowsアプリケーション(C++, OpenCV)
+  - 画像認識アプリケーション(Python, Chainer)
 
-## フレームワーク
-- Ruby on Rails
-- React/Redux
-- Vue/Vuex
-- Chainer
-- OpenCV
-- Cordova
 
-## その他
-- BuildkiteによるCI構築
-  - JenkinsからBuildkiteへの移行
-- Docker
-- 画像処理
-- 機械学習
-- AWS
-- GCP
-- アジャイル開発
+### 業務外活動
+- 名古屋Ruby会議04 運営スタッフ
+  - https://regional.rubykaigi.org/nagoya04/
 
-# 資格
+### プログラミングスキル
+#### Ruby
+- 2.2から3.0まで日常的に利用
+- Ruby on Railsは3系から6系まで実務経験あり
+#### JavaScript / TypeScript / CoffeeScript
+- フロントエンド開発のため日常的に利用
+- jQuery、Backbone.js、React.js、Vue.jsを利用した開発実績がある
+#### Python
+- 3系の利用経験あり
+- chainerを利用した開発実績がある
+- bottleを利用した開発実績がある
+#### Go
+- Admin画面向けのデータ集計APIの開発に利用
+- 半年ほどの実務経験あり
+#### Swift
+- 1.0から5.3まで利用経験あり
+- 1.0から4.0までは趣味の開発で利用
+- 4.0から5.3は副業で実務経験あり
+- RxSwiftを利用した開発実績がある
+#### Objective-C
+- 個人開発のiOSアプリで利用
+#### Kotlin
+- 副業で半年ほどAndroidアプリ開発のために利用
+- Android Architecture Componentsを利用した開発実績がある
+#### C/C++
+- 画像処理アプリ開発時に4年ほど実務経験あり
+- カメラの制御、生産設備の制御のための利用経験あり
+
+### 資格
 |資格名|取得年月|
 |---|---|
 |普通自動車免許第一種免許取得|2003/06|
@@ -51,157 +59,125 @@
 |Ruby技術者試験認定 Gold|2016/01|
 |AWS SAA| 2019/04 |
 
-# 職務経歴
+## 職務経歴(現職)
+### 株式会社キャスター (2019/1〜)
 
-## 2009/04 〜 2015/07 : 豊田合成株式会社
+- bosyuの開発/運用
+  - https://bosyu.me
+  - Ruby on Rails、Vue.js、TypeScript
+  - リリースから１年程度のWebサービスの開発に参加
+  - CI/CD環境の構築
+  - OGP用画像の生成周り
+  - 月額課金、都度支払い周りの実装
+    - Pay.jp GMO-PG
 
-職務: 生産技術エンジニア
+- bosyuJobsの開発/運用
+  - https://jobs.bosyu.me/
+  - https://saiyo.bosyu.me/
+  - Ruby on Rails、React.js、Vue.js、TypeScript
+  - 新規サービス立ち上げ
+  - インフラ構築(GCP)
+  - CI/CD環境の構築
+  - OGP用画像の生成周りを実装
+  - 月額課金周りの実装
+    - GMO-PG
 
-### 画像処理による検査技術開発
-2009/07〜2015/07
+- JobsPrimeの開発/運用
+  - https://jobs-prime.com/
+  - Ruby on Rails、JavaScript
+  - 新規サービスの開発
+  - インフラ構築(GCP)
+  - CI/CD環境の構築
 
-- 自動車部品に搭載される機能部品の検査技術開発
-- ゼロベースからの開発を担当
-- ブレーキシール部品の画像検査技術をC++で全て開発
-- OpenCVを持ちいた画像測定技術を開発
-- ブレーキ口金の画像検査をHALCONを使ってC++で開発
-- 生産履歴管理ソフトをC++で開発
-- 燃料キャップゴムバルブの画像検査技術をC++で開発
-- ラックブーツ画像検査技術をC++で開発
+- 採用活動
+  - 書類選考
+  - 1次面接
 
-## 2015/12 〜 2016/11 : 株式会社CaSy
+## 職務経歴(前職以前)
+### 株式会社Misoca (2016/11〜2018/12)
 
-職務: バックエンドサイド/フロントエンドエンジニア
+- クラウド請求書サービスMisocaの開発/運用
+  - https://app.misoca.jp/
+  - Ruby on Rails、React/Redux
+  - 認証周りの実装(Single Sign On)
+  - 課金システムの構築
+  - チャット機能開発
 
-### 家事代行モバイルアプリ開発
-2015/12〜2016/02
+- クラウド受発注サービスの開発/運用
+  - Ruby on Rails、Vue.js、JavaScript
+  - 新規サービスの開発
+  - インフラ構築(AWS Elastic Beanstalk)
+  - サービス開発の企画から参画
 
-- 新規にCordovaを使ったモバイルアプリを開発
-- ゼロベースからの開発を担当
-- Cordova/JavaScript/Backborn.jsを使用してSPAで実装
+- CI環境の高速化
 
-### 家事代行サービスのWebアプリ開発
-2016/02〜2016/07
+- 採用活動
+  - 書類選考
+  - 1次面接
+  - コーディングテスト
 
-- 家事代行のユーザ/スタッフ/管理者が使うWebサービス
-- Ruby on Railsによるサーバサイド実装
-- CoffeeScript/HTML/CSSを使ったフロントエンド実装
-- 料理代行サービス機能の追加をユーザ/スタッフ/管理者機能を実装
-- 管理者機能の修正、追加機能実装
-- スタッフマッチング部分の効率化のための機能実装
-- LINEとユーザ情報のやりとり部分を実装
+- 技術者の教育
+  - RubyやRuby on Rails、RSpecをOJTで実施
+  - コードレビュー
 
-### データ集計用アプリの開発
-2016/08〜2016/09
+### 株式会社CaSy (2015/12〜2016/11)
 
-- ユーザの行動解析を行う集計用アプリの開発を担当
-- GoとWebフレームワークEchoを使用してAPIサーバを実装
-- Webアプリのログデータを集計して、管理者画面に表示するようのデータを生成する処理を実装
+- 家事代行モバイルアプリ開発/運用
+  - CoffeeScript、Cordova、Backborn.js
+  - 新規にCordovaを使ったモバイルアプリを開発
+  - ゼロベースからの開発を担当
 
-### 部屋汚れ判定アプリ開発
-2016/09~2016/11
+- 家事代行サービスのWebアプリ開発
+  - Ruby on Rails、CoffeeScript
+  - 家事代行のユーザ/スタッフ/管理者が使うWebサービス
+  - 料理代行サービス機能の追加をユーザ/スタッフ/管理者機能開発
+  - 管理者機能の修正、追加機能開発
+  - スタッフマッチング部分の効率化のための機能開発
+  - LINE連携機能を開発
 
-- LINE上で画像を送ると部屋の汚れレベルを判定するアプリ
-- ゼロベースからの開発を担当
-- Python、ChainerでDCNNを使った画像判定
+- データ集計用アプリの開発/運用
+  - Go、Echo
+  - ユーザの行動解析を行う集計用アプリの開発を担当
+  - Webアプリのログデータを集計して、管理者画面に表示するようのデータを生成する処理を実装
 
-## 2016/11 〜 2018/12 : 株式会社Misoca
+- 部屋汚れ判定アプリ開発
+  - Python、Chainer、AWS、MySQL
+  - LINE上で画像を送ると部屋の汚れレベルを判定するアプリを開発
+  - Python、ChainerでDCNNを使った画像判定
 
-職務: バックエンド/フロントエンドエンジニア
+### 豊田合成株式会社 (2009/04〜2015/07)
 
-### クラウド請求書サービスの開発
-2016/11〜2017/10
+- 画像処理による検査技術開発
+  - C/C++、OpenCV、Widows
+  - 自動車部品の欠陥検出アルゴリズムの開発
+- 生産履歴管理ソフト開発
+  - C/C++、Windows
 
-- リリースから4年程度のWebサービスの開発に参加
-- Ruby on Railsによるサーバサイド実装
-- React/Reduxを使ったフロントエンド実装
-- 認証周りの乗り換え(SSO)
-- React.js/Reduxを使った新規機能の実装
 
-### クラウド受発注サービスの開発
-2017/11〜2018/12
+## 職務経歴(副業)
+- 観光地ガイドのiOSアプリ/バックエンド/管理画面開発 (2017/10〜)
+  - iOSアプリの新機能開発/運用/保守
+    - Swift
+    - アーキテクチャをClean Architectureへ変更
+    - RxSwiftを利用するように変更
+    - Auto Layoutを使うように変更
+    - CI/CDの導入
+  - API開発
+    - Ruby on Rails
+    - CI/CDの導入
+    - 新機能開発
+  - 管理画面のフルリニューアル
+    - Rails、Vue.js
 
-- 新規サービスの開発
-- Ruby on Railsによるサーバサイド実装
-- Vue.jsを使ったフロントエンド実装
-- AWS Elastic Beanstalkを使ったインフラの構築
-- サービス開発の企画から参画
+- 禅・瞑想音楽のiOSアプリ/バックエンド開発 (2020/05〜)
+  - バックエンドの新機能開発/運用
+    - Ruby on Rails
+    - 月額課金機能の開発
+    - 管理画面の開発
+  - iOSアプリの新機能開発
+    - 月額課金機能の開発
 
-## 2019/1 〜 現職 : 株式会社キャスター
-職務: バックエンド/フロントエンドエンジニア
-
-### bosyuの開発
-2019/1〜2021/4
-
-- リリースから１年程度のWebサービスの開発に参加
-- CI環境の構築
-  - CircleCI
-  - rspec
-  - rubocop
-  - GAEへのデプロイ
-- Ruby on Railsによるサーバサイド実装
-- Vue.jsを使ったフロントエンド実装
-- OGP用画像の生成周りを実装
-- 月額課金、都度支払い周りの実装
-  - Pay.jp
-  - GMO PG
-
-### bosyuJobsの開発
-2020/10〜現在
-
-- 新規サービスの開発
-- インフラ構築
-  - GCP
-- CI環境の構築
-  - CircleCI
-  - rspec
-  - rubocop
-  - GAEへのデプロイ
-- Ruby on Railsによるサーバサイド実装
-- Vue.js/React.jsを使ったフロントエンド実装
-- OGP用画像の生成周りを実装
-- 月額課金周りの実装
-  - GMO PG
-
-### JobsPrimeの開発
-2021/2〜現在
-
-- 新規サービスの開発
-- インフラ構築
-  - GCP
-- CI環境の構築
-  - CircleCI
-  - rspec
-  - rubocop
-  - GAEへのデプロイ
-- Ruby on Railsによるサーバサイド実装
-
-## 2017/10〜 : 副業
-### 観光地ガイドのiOSアプリ/バックエンド/管理画面開発
-2017/10〜2020/05
-
-- 現在地付近の観光地の情報を音声やテキストで紹介するアプリの開発
-- 基本的な機能がある状態から参画
-- UIリニューアルを実施
-  - Clean Architectureへのアーキテクチャ置き換え
-  - RxSwiftを利用するように変更
-  - Auto Layoutを使うように変更
-- 新規機能の追加実装
-- CIの導入
-- 管理画面のフルリニューアル
-  - Rails
-  - Vue.js
-
-#### ユーザの活動状況可視化Androidアプリ開発
-2018/05〜2018/10
-
-- 加速度データを利用したユーザの行動解析を行うアプリの開発
-- ゼロベースからの開発を担当
-- Kotlinによるアプリの開発
-- RxJavaやAndroid Architecture Componentsを使用
-
-### 禅・瞑想音楽のiOSアプリ/バックエンド開発
-2020/05〜現在
-
-- 月額課金の実装(バックエンド/iOS)
-- 新規機能の追加実装
+- ユーザの活動状況可視化Androidアプリ開発 (2018/05〜2018/11)
+  - Kotlin、RxJava、Android Architecture Components
+  - アプリ新規開発
+  - 加速度データを利用したユーザの行動解析を行うアプリ開発
