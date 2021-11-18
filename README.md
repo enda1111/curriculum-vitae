@@ -60,6 +60,14 @@
 |AWS SAA| 2019/04 |
 
 ## 職務経歴(現職)
+### 株式会社YOUTRUST (2021/9〜)
+- YOUTRUSTの開発/運用
+  - https://youtrust.jp
+  - Ruby on Rails、React、TypeScript
+  - インフラ(AWS)
+  - Terraformによるコード化
+
+## 職務経歴(前職以前)
 ### 株式会社キャスター (2019/1〜)
 
 - bosyuの開発/運用
@@ -93,7 +101,6 @@
   - 書類選考
   - 1次面接
 
-## 職務経歴(前職以前)
 ### 株式会社Misoca (2016/11〜2018/12)
 
 - クラウド請求書サービスMisocaの開発/運用
