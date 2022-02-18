@@ -65,7 +65,8 @@
   - https://youtrust.jp
   - Ruby on Rails、React、TypeScript
   - インフラ(AWS)
-  - Terraformによるコード化
+  - Terraformによる既存環境のコード化
+  - エラー監視の追加とエラー対策
 
 ## 職務経歴(前職以前)
 ### 株式会社キャスター (2019/1〜2021/8)
