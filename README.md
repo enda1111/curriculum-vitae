@@ -60,7 +60,13 @@
 |AWS SAA| 2019/04 |
 
 ## 職務経歴(現職)
-### 株式会社YOUTRUST (2021/9〜)
+### 株式会社KabuK Style (2022/6〜現在)
+- HafHの開発/運用
+  - https://www.hafh.com/
+  - Ruby on Rails
+
+## 職務経歴(前職以前)
+### 株式会社YOUTRUST (2021/9〜2022/5)
 - YOUTRUSTの開発/運用
   - https://youtrust.jp
   - Ruby on Rails、React、TypeScript
@@ -68,7 +74,6 @@
   - Terraformによる既存環境のコード化
   - エラー監視の追加とエラー対策
 
-## 職務経歴(前職以前)
 ### 株式会社キャスター (2019/1〜2021/8)
 
 - bosyuの開発/運用
