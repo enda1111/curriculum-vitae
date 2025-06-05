@@ -64,6 +64,7 @@
 - HafHの開発/運用
   - https://www.hafh.com/
   - Ruby on Rails
+  - Next.js (React)
 
 ## 職務経歴(前職以前)
 ### 株式会社YOUTRUST (2021/9〜2022/5)
@@ -88,7 +89,7 @@
 - bosyuJobsの開発/運用
   - https://jobs.bosyu.me/
   - https://saiyo.bosyu.me/
-  - Ruby on Rails、React.js、Vue.js、TypeScript
+  - Ruby on Rails、React、Vue.js、TypeScript
   - 新規サービス立ち上げ
   - インフラ構築(GCP)
   - CI/CD環境の構築
@@ -165,32 +166,3 @@
   - 自動車部品の欠陥検出アルゴリズムの開発
 - 生産履歴管理ソフト開発
   - C/C++、Windows
-
-
-## 職務経歴(副業)
-- 観光地ガイドのiOSアプリ/バックエンド/管理画面開発 (2017/10〜)
-  - iOSアプリの新機能開発/運用/保守
-    - Swift
-    - アーキテクチャをClean Architectureへ変更
-    - RxSwiftを利用するように変更
-    - Auto Layoutを使うように変更
-    - CI/CDの導入
-  - API開発
-    - Ruby on Rails
-    - CI/CDの導入
-    - 新機能開発
-  - 管理画面のフルリニューアル
-    - Rails、Vue.js
-
-- 禅・瞑想音楽のiOSアプリ/バックエンド開発 (2020/05〜)
-  - バックエンドの新機能開発/運用
-    - Ruby on Rails
-    - 月額課金機能の開発
-    - 管理画面の開発
-  - iOSアプリの新機能開発
-    - 月額課金機能の開発
-
-- ユーザの活動状況可視化Androidアプリ開発 (2018/05〜2018/11)
-  - Kotlin、RxJava、Android Architecture Components
-  - アプリ新規開発
-  - 加速度データを利用したユーザの行動解析を行うアプリ開発
